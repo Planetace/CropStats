@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\CropStats\\Source\\PlantStats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC04C57-B555-4A51-BCC0-839044F1A1EC}|CropStats.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\cropstats\\source\\plantstats\\cropstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC04C57-B555-4A51-BCC0-839044F1A1EC}|CropStats.csproj|solutionrelative:cropstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABC04C57-B555-4A51-BCC0-839044F1A1EC}|CropStats.csproj|d:\\steamlibrary\\steamapps\\common\\rimworld\\mods\\cropstats\\source\\plantstats\\cropstatsdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABC04C57-B555-4A51-BCC0-839044F1A1EC}|CropStats.csproj|solutionrelative:cropstatsdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CropStats.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\CropStats\\Source\\PlantStats\\CropStats.cs",
+              "RelativeDocumentMoniker": "CropStats.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\CropStats\\Source\\PlantStats\\CropStats.cs",
+              "RelativeToolTip": "CropStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:09:27.125Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CropStatsDefOf.cs",
+              "DocumentMoniker": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\CropStats\\Source\\PlantStats\\CropStatsDefOf.cs",
+              "RelativeDocumentMoniker": "CropStatsDefOf.cs",
+              "ToolTip": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\CropStats\\Source\\PlantStats\\CropStatsDefOf.cs",
+              "RelativeToolTip": "CropStatsDefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T00:09:25.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

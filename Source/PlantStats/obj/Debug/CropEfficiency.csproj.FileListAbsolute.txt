@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropEfficiency\1.5\Assemblies\CropEfficiency.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropEfficiency\1.5\Assemblies\CropEfficiency.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropEfficiency\Source\CropEfficiency\obj\Debug\CropEfficiency.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropEfficiency\Source\CropEfficiency\obj\Debug\CropEfficiency.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropEfficiency\Source\CropEfficiency\obj\Debug\CropEfficiency.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropEfficiency\Source\CropEfficiency\obj\Debug\CropEfficiency.pdb

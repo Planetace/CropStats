@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+    <packageId>planetace.cropstats</packageId>
+    <name>Crop Stats</name>
+    <authors>
+        <li>Planetace</li>
+        <li>eth0net</li>
+    </authors>
+    <modVersion>1.0</modVersion>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+
+    <description>Adds a few new useful stats that help determine the efficiency of a crop. Includes it's true Growing Time, Harvest Yield per day, Nutrition per day, and how many crops you need of that specific crop to keep one (baseline) Pawn alive.</description>
+
+</ModMetaData>

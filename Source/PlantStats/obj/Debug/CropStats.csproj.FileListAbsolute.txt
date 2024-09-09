@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropStats\1.5\Assemblies\CropStats.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropStats\1.5\Assemblies\CropStats.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropStats\Source\PlantStats\obj\Debug\CropStats.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropStats\Source\PlantStats\obj\Debug\CropStats.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropStats\Source\PlantStats\obj\Debug\CropStats.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\CropStats\Source\PlantStats\obj\Debug\CropStats.pdb

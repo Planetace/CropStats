@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TrueGrowingTime>True growing time: </TrueGrowingTime>
+  <TrueGrowingTimeDesc>The amount of time this crop actually takes to grow. Plants spend eleven hours of every day asleep, which the Growing Time figure does not factor in. This stat is a more accurate approximation of their growth time in nominal conditions (100% light, 100% fertility, perfect temperature)</TrueGrowingTimeDesc>
+
+  <HarvestPerDay>Harvest per day: </HarvestPerDay>
+  <HarvestPerDayEquivilence>Yield</HarvestPerDayEquivilence>
+  <HarvestPerDayDesc>The rough equivilent of how many items this crop produces per day.</HarvestPerDayDesc>
+
+  <NutritionPerDay>Nutrition per day: </NutritionPerDay>
+  <NutritionPerDayEquivilence>Nutrition</NutritionPerDayEquivilence>
+  <NutritionPerDayDesc>The rough equivilent of how much nutrition this plant produces per day, this is more accurate to gauge a crops "usefullness" in terms of how efficient it is.</NutritionPerDayDesc>
+
+  <CropsPerPawn>Crops per pawn: </CropsPerPawn>
+  <CropsPerPawnCooked>Crops per pawn if cooked: </CropsPerPawnCooked>
+  <CropsPerPawnNutrient>Crops per pawn if paste: </CropsPerPawnNutrient>
+  <CropsPerPawnEquivilence>Crops</CropsPerPawnEquivilence>
+  <CropsPerPawnDesc>The rough equivilent of how many crops you need to keep one pawn alive indefinetly. This is assuming the pawn is a baseliner without any augmentations or hediffs that may affect their nutritional consumption.</CropsPerPawnDesc>
+
+</LanguageData>

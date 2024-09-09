@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <StatCategoryDef>
+    <defName>AdditionalPlantStats</defName>
+    <label>Additional Plant Stats</label>
+    <displayOrder>15</displayOrder>
+    <displayAllByDefault>true</displayAllByDefault>
+  </StatCategoryDef>
+  
+</Defs>
